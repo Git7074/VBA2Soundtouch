@@ -1,2 +1,2 @@
 # VBA2Soundtouch
-VBA code to control Bose Soundtouch speakers over wi-fi
+VBA code to control Bose Soundtouch speakers over wi-fi.
